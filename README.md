@@ -36,18 +36,7 @@
 
 ---
 
-<div align="center">
 
-<table>
-  <tr>
-    <td>< img src="https://github-readme-stats.vercel.app/api?username=xiaoli&show_icons=true&theme=transparent&hide_border=true&locale=en" /></td>
-    <td>< img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoli79&layout=compact&theme=transparent&hide_border=true&locale=en" /></td>
-  </tr>
-</table>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=xiaoli79&theme=transparent&hide_border=true&locale=en)
-
-</div>
 
 
 
