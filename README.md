@@ -49,6 +49,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
+
 ---
 
 ## 📊 GitHub Stats
@@ -85,8 +86,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/xiaoli79/SpringAI-Web-Demo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoli79&repo=SpringAI-Web-Demo&theme=transparent&hide_border=true&locale=cn" />
+      <a href="https://github.com/xiaoli79/spring_cloud_blog">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoli79&repo=spring_cloud_blog&theme=transparent&hide_border=true&locale=cn" />
       </a>
     </td>
     <td>
@@ -111,7 +112,7 @@
 
 ### 📝 项目介绍
 
-- **SpringAI-Web-Demo**: 基于 Spring AI 和 Spring Boot 的 Web 聊天应用，集成 DeepSeek 大模型 API，支持流式响应和多轮对话
+- **spring-cloud-blog**: 基于 Spring Cloud 微服务架构的博客系统，采用服务治理、配置中心等微服务组件，实现分布式博客平台
 - **BlogAutoTest**: 使用 Java、Spring Boot 和 Selenium WebDriver 构建的自动化测试项目，专注于博客应用的 UI 和功能测试
 - **forum_system**: 基于 Spring Boot 和 Vue.js 的前后端分离论坛系统，实现用户认证、板块管理、帖子发布与评论、私信等功能
 - **blog_system**: 基于 Spring Boot + MyBatis 构建的简单博客系统
@@ -152,4 +153,3 @@
 **🧠 正在积极刷 LeetCode，享受解决算法问题的乐趣**
 
 </div>
-
